@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning maya's python API and animator friendly rigging
 - 👯 I’m looking to collaborate on open source projects that make life easier for artists
-- 📫 How to reach me: [Twitter](https://twitter.com/Ghalban_) | [Linkedin](https://www.linkedin.com/in/rawda-elwalily/)
 
 <!--
 **Ghalban/Ghalban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
