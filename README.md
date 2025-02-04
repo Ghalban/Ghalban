@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning maya's python API and animator friendly rigging
 - 👯 I’m looking to collaborate on open source projects that make life easier for artists
+- 🔭 I’m currently working on derusting 
 
 <!--
 **Ghalban/Ghalban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
